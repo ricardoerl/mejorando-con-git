@@ -12,3 +12,4 @@ Código fuente de la presentación utilizada en la charla.
 ## Participantes
 
 - Ricardo Ramírez
+- Raúl Bermúdez
